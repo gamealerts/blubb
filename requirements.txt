@@ -1,2 +1,2 @@
-django==1.10.4
-flask
+django==1.10.5
+flask==0.12
